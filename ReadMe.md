@@ -7,10 +7,6 @@ A quick test of speech to text for future projects
 
 `$ pip install SpeechRecognition`
 
->>> import speech_recognition as sr
->>> sr.__version__
-'3.8.1'
-
 #### Installing PyAudio
 
 The process for installing PyAudio will vary depending on your operating system.
